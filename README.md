@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently studing Computer Engineering
+Currently studying Computer Engineering
 
 - 🔭 I’m currently working on many things...
 - 🌱 I’m currently learning stuff
