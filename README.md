@@ -7,4 +7,4 @@ Currently studying Computer Engineering
 - 📫 How to reach me: frraane@protonmail.com
 - ⚡ Fun fact: Neovim is the best editor!!!
 
-### Website https://frr0.github.io/
+### Website [click here](https://frr0.github.io/).
