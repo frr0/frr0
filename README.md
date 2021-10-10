@@ -11,5 +11,5 @@ Currently studying Computer Engineering
     - [Matrix.org](https://matrix.to/#/@qhwjekrlty:matrix.org)
 - ⚡ Fun fact: Neovim is the best editor!!!
 
-![](https://github.com/username/git-stats/blob/master/generated/overview.svg)
-![](https://github.com/username/git-stats/blob/master/generated/languages.svg)
+![image](https://github.com/username/git-stats/blob/master/generated/overview.svg)
+![image](https://github.com/username/git-stats/blob/master/generated/languages.svg)
