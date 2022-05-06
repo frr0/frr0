@@ -9,4 +9,3 @@ Currently studying Computer Engineering
 - ⚡ Fun fact: Neovim is the best editor!!!
 
 ![image](https://github.com/frr0/git-stats/blob/master/generated/languages.svg)
-![image](https://github.com/frr0/git-stats/blob/master/generated/overview.svg)
